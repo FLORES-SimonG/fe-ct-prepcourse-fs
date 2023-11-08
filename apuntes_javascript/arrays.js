@@ -15,8 +15,8 @@ numeros.forEach((num)=>{
     }
 })
 
-var masUno=numeros.map((map)=>{
-    return num+1;
+var masUno=numeros.map((x)=>{
+    return x+1;
 });
 // rta--> [2,3,4,5]
 
